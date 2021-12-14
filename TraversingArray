@@ -28,6 +28,16 @@ System.out.println(c[index]
 ):
 }
 }
+
+public static void m2(String value) {
+char[] c
+=
+value.toCharArray();
+for (char ch: c)f
+System.out.println(ch);
+}
+1
+
 }
 class Array_Pro3_Test{
 public static void main(String
