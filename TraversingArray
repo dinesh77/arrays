@@ -1,0 +1,19 @@
+class Array Pro2{
+public static void m(String value){
+String[] s
+=
+value.split("");
+for (int index=0; index<s.length
+; index++) {
+System.out.println(s[index]
+);
+}
+}
+}
+Class Array_Pro2 Test{
+public static void main(String
+..abc){
+Array_Pro2.m("JAVALAYA");
+}
+}
+
