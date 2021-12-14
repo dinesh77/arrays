@@ -17,3 +17,22 @@ Array_Pro2.m("JAVALAYA");
 }
 }
 
+class Array_Pr03{
+public static void m(String value){
+char[] c
+=
+value. toCharArray();
+for (int index=0; index<c.length
+: index++){
+System.out.println(c[index]
+):
+}
+}
+}
+class Array_Pro3_Test{
+public static void main(String
+.abc){
+Array_Pro3.m ("JAVALAYA");
+}
+}
+
