@@ -45,4 +45,25 @@ public static void main(String
 Array_Pro3.m ("JAVALAYA");
 }
 }
-
+20 Dec 2021
+class Array_Prog{
+public static void m(int... arr){
+for (int 1=0; i<(arr.length-1) /2
+;it+){
+int lastDigit = arr[arr
+. length-i-11:
+arr[arr. length-1-i] =
+arr[il;
+arr[i] = lastDigit;
+3
+System.out.println(Arrays
+•toString(arr));
+}
+}
+class Array_Prog_Test{
+public static void main(String
+. abc){
+Array_Pro9.m(new int[]{10,20,30
+,40,50}) ;
+}
+}
