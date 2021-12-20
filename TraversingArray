@@ -91,7 +91,6 @@ System.out.println(Arrays
 class Array_Pro10_Test{
 public static void main(String
 .. abc) {
-Array_Pro10.m(new int[14158,4
-.7,3.21);
+Array_Pro10.m(new int[]{1,5,8,4,7,3,2});
 }
 }
