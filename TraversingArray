@@ -133,7 +133,7 @@ int av = ((Number)obj.o(""
 ())).intValue()+Integer
 .valuelf((String)A7.p(' '
 ))+ (Integer)A7.p(true);
-return pV+cv+av;
+return pv+cv+av;
 }
 }
 class A7_2_Test{
