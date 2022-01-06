@@ -95,30 +95,51 @@ Array_Pro10.m(new int[]{1,5,8,4,7,3,2});
 }
 }
 ----------
-class A71
-Object o (CharSequence cs) l
-if (cs instanceof String) (
-return 10.
-Jelse!
-return 15;
-static Comparable p (Object a) l
-if (a instanceof Character) (
-return "45";
-else if (a instanceof Boolean) (
+class A7{
+Object o(CharSequence cs) {
+if(cs instanceof String) {
+return 10.;
+} else{
+return 15f;
+}
+static Comparable p(Object a) {
+if(a instanceof Character) {
+return
+"45";
+} else if(a instanceof Boolean
+){
 return 78;
-Jelse!
+} else{
 return null;
-class A7 2|
-Object p-"66";
-static Comparable on
-10':
-static int add (String hello, CharSequence ha) (
-hellothi
-p+o
-//A7_2 Glass 66+'D'
-pro //A7 class
-10+15f
-"45" +78;
-return-0:
+}
+}
+}
+class A7_2{
+Object p="66";
+static Comparable o='D';
+static int add(String hello,
+CharSequence hi){
+int pv = Integer.value0f (hello)
++ Integer.valueOf(hi.toString
+());
+int cv
+= Integer.valueOf
+((String)new A7_2().p
+) + (Character)A7_2.o;
+A7 obj = new A7();
+int av = ((Number)obj.o(""
+)).intValue()+( (Number )obj
+.o(new StringBuffer
+())).intValue()+Integer
+.valuelf((String)A7.p('a'
+))+ (Integer)A7.p(true);
+return pV+cv+av;
+}
+}
+class A7_2_Test{
+public static void main(String
+..abc){
+int total = A7_2.add("1", "2");
+System.out.println(total);
 }
 }
